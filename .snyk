@@ -11,3 +11,6 @@ patch:
   'npm:mime:20170907':
     - owasp-threat-dragon-core > rework-npm-cli > rework > mime:
         patched: '2020-03-15T12:43:59.071Z'
+  SNYK-JS-LODASH-450202:
+    - owasp-threat-dragon-core > jointjs > lodash:
+        patched: '2020-04-03T16:12:47.774Z'
