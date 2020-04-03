@@ -37,7 +37,7 @@
     "url": "git://github.com/mike-goodwin/owasp-threat-dragon.git"
   },
   "dependencies": {
-    "angular": "1.7.8",
+    "angular": "1.7.9",
     "angular-animate": "1.7.8",
     "angular-route": "1.7.8",
     "angular-ui-bootstrap": "2.5.6",
@@ -63,7 +63,7 @@
     "pug": "^2.0.4",
     "pug-bootstrap": "0.0.16",
     "serve-favicon": "^2.5.0",
-    "snyk": "^1.298.1"
+    "snyk": "^1.305.0"
   },
   "devDependencies": {
     "angular-mocks": "1.7.8",
